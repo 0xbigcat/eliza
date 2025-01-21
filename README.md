@@ -28,7 +28,7 @@
 - 📚 Easily ingest and interact with your documents
 - 💾 Retrievable memory and document store
 - 🚀 Highly extensible - create your own actions and clients
-- 📦 Just works!
+- 📦 It just works!
 
 ## Video Tutorials
 
